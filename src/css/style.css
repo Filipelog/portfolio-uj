@@ -92,6 +92,9 @@ body{
 .home .container-foto .foto {
 	max-width: 450px;
 	border-radius: 90%;
+	position: relative;
+	right: 30em;
+	bottom: 20em;
 }
 
 .home .container-foto img {
